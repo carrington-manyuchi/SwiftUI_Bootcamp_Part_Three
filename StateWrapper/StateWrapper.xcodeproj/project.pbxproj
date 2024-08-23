@@ -16,6 +16,7 @@
 		E6B5D51D2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */; };
 		E6B5D51F2C7846D7002E3749 /* BindingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D51E2C7846D7002E3749 /* BindingBootcamp.swift */; };
 		E6B5D5212C784D61002E3749 /* ConditionalBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D5202C784D61002E3749 /* ConditionalBootcamp.swift */; };
+		E6B5D5232C785292002E3749 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D5222C785292002E3749 /* TernaryBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewsBootcamp.swift; sourceTree = "<group>"; };
 		E6B5D51E2C7846D7002E3749 /* BindingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BindingBootcamp.swift; sourceTree = "<group>"; };
 		E6B5D5202C784D61002E3749 /* ConditionalBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConditionalBootcamp.swift; sourceTree = "<group>"; };
+		E6B5D5222C785292002E3749 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */,
 				E6B5D51E2C7846D7002E3749 /* BindingBootcamp.swift */,
 				E6B5D5202C784D61002E3749 /* ConditionalBootcamp.swift */,
+				E6B5D5222C785292002E3749 /* TernaryBootcamp.swift */,
 				E6B5D50E2C77C661002E3749 /* Assets.xcassets */,
 				E6B5D5102C77C661002E3749 /* Preview Content */,
 			);
@@ -154,6 +157,7 @@
 			files = (
 				E6B5D5212C784D61002E3749 /* ConditionalBootcamp.swift in Sources */,
 				E6B5D50D2C77C660002E3749 /* ContentView.swift in Sources */,
+				E6B5D5232C785292002E3749 /* TernaryBootcamp.swift in Sources */,
 				E6B5D51B2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift in Sources */,
 				E6B5D5192C77C68B002E3749 /* StateBootcamp.swift in Sources */,
 				E6B5D51D2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift in Sources */,
