@@ -13,6 +13,7 @@
 		E6B5D5122C77C661002E3749 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E6B5D5112C77C661002E3749 /* Preview Assets.xcassets */; };
 		E6B5D5192C77C68B002E3749 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D5182C77C68B002E3749 /* StateBootcamp.swift */; };
 		E6B5D51B2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D51A2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift */; };
+		E6B5D51D2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		E6B5D5112C77C661002E3749 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E6B5D5182C77C68B002E3749 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 		E6B5D51A2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedFunctionsBotcamp.swift; sourceTree = "<group>"; };
+		E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExtractedSubviewsBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				E6B5D50C2C77C660002E3749 /* ContentView.swift */,
 				E6B5D5182C77C68B002E3749 /* StateBootcamp.swift */,
 				E6B5D51A2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift */,
+				E6B5D51C2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift */,
 				E6B5D50E2C77C661002E3749 /* Assets.xcassets */,
 				E6B5D5102C77C661002E3749 /* Preview Content */,
 			);
@@ -146,6 +149,7 @@
 				E6B5D50D2C77C660002E3749 /* ContentView.swift in Sources */,
 				E6B5D51B2C783D66002E3749 /* ExtractedFunctionsBotcamp.swift in Sources */,
 				E6B5D5192C77C68B002E3749 /* StateBootcamp.swift in Sources */,
+				E6B5D51D2C7840AC002E3749 /* ExtractedSubviewsBootcamp.swift in Sources */,
 				E6B5D50B2C77C660002E3749 /* StateWrapperApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
